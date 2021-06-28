@@ -17,7 +17,7 @@ Instructions:
 * Once finished with 'Spots_1_Statistics', repeat for 'Spots_2_Statistics' making sure to choose the same output folder.
 * Repeat for as many spots as you want to compare.
 
-# manual_vec_sorter
+## manual_vec_sorter
 
 This is a small program that takes tiffs with manual 'vectors' drawn in imageJ and saves all 
 the vectors as vector.txt files and then moves them into the correct LAM files in a LAM analysis samples folder.
@@ -31,7 +31,7 @@ Instructions:
 * Finally select the LAM /analysis/samples folder with the samples corresponding to the tiffs. **N.B.** the sample folders must
 have the same name as the tiffs e.g. 'OR_2020-08-31_145800' so that the programme can move the vector files to the correct folder.
 
-# mp_sorter
+## mp_sorter
 
 This is a small program that takes tiffs with manual 'MPs' drawn in imageJ and saves all 
 these MPs in the into the correct LAM files in a LAM analysis samples folder.
